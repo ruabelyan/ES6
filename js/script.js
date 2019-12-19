@@ -39,7 +39,7 @@ for (const key in menq) {
    
    
 }
-console.log(g)
+// console.log(g)
 
 // var arr = [1,5,6,7];
 // var g = 0
